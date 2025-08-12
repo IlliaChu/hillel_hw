@@ -29,5 +29,5 @@ console.log('Generated digits: ' + count_digit);
 console.log('EvenCount: ' + evenCount);
 console.log('OddCount: ' + oddCount);
 console.log('Even: ' + evenCount.toFixed(2)/count * 100 + '%') 
-console.log('Odd: ' + oddCount.toFixed(2) / count * 100 + '%')
+console.log('Odd: ' + oddCount.toFixed(2)/count * 100 + '%')
 //додав toFixed щоб показувало значення, якщо буде згенеровано більше 10000
